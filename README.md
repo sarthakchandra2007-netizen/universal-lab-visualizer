@@ -3,7 +3,7 @@
 A lightweight, interactive web application designed to help life science researchers and students transform raw laboratory spreadsheet printouts (Excel/CSV) into publication-ready visual growth curves instantly—without requiring complex local database installations or SQL coding.
 
 ## 🔗 Live Application
-[Insert your live *.streamlit.app link here once deployed]
+[👉 Click Here to Open the Live App](https://universal-lab-visualizer-cqbm5aeewf5ljq4kfjwnc8.streamlit.app/)
 
 ## ✨ Features
 * **Zero-SQL Data Engine:** Fully powered by programmatic Pandas dataframes, keeping memory usage minimal (perfect for 8GB RAM local setups).
